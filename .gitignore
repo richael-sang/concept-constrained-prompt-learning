@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Virtual / conda
+.venv/
+venv/
+.env
+
+# Experiment outputs (do not commit)
+output/
+outputs/
+logs/
+checkpoints/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+
+# Datasets (download separately)
+data/
+datasets/raw/
+*.tar.gz
+*.zip
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# LaTeX / paper artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face cache
+**/hf_cache/
+**/.cache/

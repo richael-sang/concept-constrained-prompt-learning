@@ -1,0 +1,131 @@
+{
+  "EuroSAT": {
+    "annual crop": [
+      "cultivated fields",
+      "agricultural land",
+      "crop rows",
+      "farmland texture",
+      "seasonal vegetation"
+    ],
+    "forest": [
+      "dense tree canopy",
+      "woodland area",
+      "green vegetation",
+      "natural forest cover",
+      "irregular tree texture"
+    ],
+    "herbaceous vegetation": [
+      "grassland",
+      "low vegetation",
+      "herbaceous cover",
+      "natural green surface",
+      "vegetation texture"
+    ],
+    "highway": [
+      "road network",
+      "long paved road",
+      "linear transport structure",
+      "asphalt surface",
+      "artificial corridor"
+    ],
+    "industrial": [
+      "industrial buildings",
+      "factory area",
+      "artificial structures",
+      "dense rooftops",
+      "built-up land"
+    ],
+    "pasture": [
+      "open grass field",
+      "grazing land",
+      "smooth vegetation",
+      "rural open area",
+      "grassland surface"
+    ],
+    "permanent crop": [
+      "orchards",
+      "vineyards",
+      "regular crop pattern",
+      "planted rows",
+      "agricultural vegetation"
+    ],
+    "residential": [
+      "houses",
+      "urban blocks",
+      "rooftops",
+      "residential buildings",
+      "built-up neighborhood"
+    ],
+    "river": [
+      "water channel",
+      "river course",
+      "blue water surface",
+      "natural waterway",
+      "elongated water region"
+    ],
+    "sea lake": [
+      "open water",
+      "lake surface",
+      "sea area",
+      "blue water region",
+      "large water body"
+    ]
+  },
+  "DescribableTextures": {
+    "__template__": [
+      "{class_name} texture",
+      "{class_name} surface pattern",
+      "{class_name} visual texture",
+      "{class_name} material pattern",
+      "{class_name} repeated texture"
+    ]
+  },
+  "DTD": {
+    "__template__": [
+      "{class_name} texture",
+      "{class_name} surface pattern",
+      "{class_name} visual texture",
+      "{class_name} material pattern",
+      "{class_name} repeated texture"
+    ]
+  },
+  "dtd": {
+    "__template__": [
+      "{class_name} texture",
+      "{class_name} surface pattern",
+      "{class_name} visual texture",
+      "{class_name} material pattern",
+      "{class_name} repeated texture"
+    ]
+  },
+  "OxfordPets": {
+    "__template__": [
+      "{class_name} pet breed",
+      "{class_name} animal appearance",
+      "{class_name} fur pattern",
+      "{class_name} face shape",
+      "{class_name} body shape",
+      "{class_name} domestic animal"
+    ]
+  },
+  "oxford_pets": {
+    "__template__": [
+      "{class_name} pet breed",
+      "{class_name} animal appearance",
+      "{class_name} fur pattern",
+      "{class_name} face shape",
+      "{class_name} body shape",
+      "{class_name} domestic animal"
+    ]
+  },
+  "Oxford Pets": {
+    "__template__": [
+      "{class_name} pet breed",
+      "{class_name} animal appearance",
+      "{class_name} fur pattern",
+      "{class_name} face shape",
+      "{class_name} body shape",
+      "{class_name} domestic animal"
+    ]
+  }
+}
